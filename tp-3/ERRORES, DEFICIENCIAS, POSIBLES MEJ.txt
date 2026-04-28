@@ -1,0 +1,11 @@
+ERRORES, DEFICIENCIAS, POSIBLES MEJORAS, SUGERENCIAS, ETC:
+ 
+En el "resumen" de la raíz el color que tiene de fondo solo se amplia con el texto a lo largo pero no a lo ancho, yo quería poner un listado de lo que iban a ver pero no se veía todo.
+Las paginas por defecto tienen muchas veces el nombre del tópico.
+A los nombres de los tópicos no se le pueden poner etiquetas, porque se visualizar bien en el titulo de la pagina pero al inicio de todo en el tópico se notan las etiquetas.
+Siempre que editas o actualizas una información vuelve al inicio y es bastante molesto si tenes que editar muchas cosas en la misma sección.
+Las secciones no pueden tener nombres con espacios.
+Cuando estas en las secciones no te aparece la información que contienen(cuando pones buscar no te aparece la información de cada sección), si o si las tenes que modificar de la base de datos.
+Cuando quiero "elegir un archivo" para subir una imagen siempre aparece un cartel que dice error y algo así como que el archivo no se subió, pero cuando ejecutas la pagina si aparece la imagen.
+También es molesto que solo se pueda subir una imagen a la vez o que no puedas elegir su tamaño.
+Cuando pones un link ese link tiene el nombre del titulo y es raro, porque tenes el titulo y el link con el mismo nombre.
